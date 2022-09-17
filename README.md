@@ -1,28 +1,36 @@
-### 🚧 Working on it 🚧
 ## SW Engineer
+
+## jongwow
 
 ❤️ 👨‍💻 Programming, 🛫 Travelling the World.
 
-updated: 2020년 8월 12일 
+## 😀 Profile
 
-# [노션](https://www.notion.so/ce35fce83ea04c43b5d9818698fcea88)
+**JongWoo Park / @jongwow**
 
----
+## 🏢 
 
-### 링크
+- [dunamu](https://www.dunamu.com/) (2021 ~ ) : [secondblock](https://2ndblock.com/) 
+  - WebRTC
+  - GameEngine
+  - FullStack (`React`, `RN`, `Go`, `Nodejs`)
 
-[baekjoon](https://www.acmicpc.net/user/jongwow73)
+- [tenuto](https://tenuto.co.kr/) (2020 ~ 2021): Rooftop, Tenu
+  - WebRTC
+  - FullStack (`React`, `RN`, `Go`, `Nodejs`)
 
-[github](https://github.com/jongwow)
+## 🚀
 
-[blog](https://jjongwoo.tistory.com/)
+- [klue](https://klue.kr) (2019 ~ ): Backend
+  - `nodejs`
 
 
 <!--
+[baekjoon](https://www.acmicpc.net/user/jongwow73)
+[github](https://github.com/jongwow)
+[blog](https://jjongwoo.tistory.com/)
 **jongwow/jongwow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
