@@ -10,10 +10,10 @@
 
 ## 🏢 
 
-- [dunamu](https://www.dunamu.com/) (2021 ~ ) : [secondblock](https://2ndblock.com/) 
-  - WebRTC
-  - GameEngine
-  - FullStack (`React`, `RN`, `Go`, `Nodejs`)
+<!-- - [dunamu](https://www.dunamu.com/) (2021 ~ ) : [secondblock](https://2ndblock.com/)  -->
+- WebRTC
+- GameEngine
+- FullStack (`React`, `RN`, `Go`, `Nodejs`)
 
 - [tenuto](https://tenuto.co.kr/) (2020 ~ 2021): Rooftop, Tenu
   - WebRTC
