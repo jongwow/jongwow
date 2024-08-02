@@ -9,15 +9,19 @@
 **JongWoo Park / @jongwow**
 
 ## 🏢 
+- [dunamu](https://www.dunamu.com/) (2023 ~ ) : Data Engineer
+  - streaming pipeline platform
+  - Kafka platform
 
-<!-- - [dunamu](https://www.dunamu.com/) (2021 ~ ) : [secondblock](https://2ndblock.com/)  -->
-- WebRTC
-- GameEngine
-- FullStack (`React`, `RN`, `Go`, `Nodejs`)
+- [dunamu](https://www.dunamu.com/) (2021 ~ 2023) : [secondblock](https://2ndblock.com/)  -->
+  - Game Server and Network Multiplayer Game Engine with `NodeJS`
+  - WebRTC SFU Server using `Go`
+  - WebRTC feature in Frontend using `React`
+  - WebRTC SFU SDK with Typescript and developed WebRTC React Native SDK using `Java`, `ObjectC`
 
 - [tenuto](https://tenuto.co.kr/) (2020 ~ 2021): Rooftop, Tenu
-  - WebRTC
-  - FullStack (`React`, `RN`, `Go`, `Nodejs`)
+  - WebRTC SFU Server and its client SDK (`Go`, `Java`, `React`)
+  - API Server with `Go`
 
 ## 🚀
 
